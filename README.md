@@ -1,0 +1,4 @@
+LazyKaliScript
+==============
+
+LazyKali.sh
